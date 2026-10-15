@@ -18,4 +18,4 @@ Java, OOP, JDBC, MySQL, Swing
 
 ## 📬 Connect
 - LinkedIn: https://www.linkedin.com/in/dinesh-kolekar-445823323
-- GitHub: [Add your GitHub profile link]
+- GitHub: https://github.com/dineshkolekar

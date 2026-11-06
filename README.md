@@ -10,7 +10,7 @@
 | Task | Project | Status |
 |------|---------|--------|
 | Task 1 | Online Reservation System | ⏳ Planned |
-| Task 2 | Number Guessing Game | ⏳ In Progress |
+| Task 2 | Number Guessing Game | ✅ Completed |
 | Task 3 | ATM Interface | ⏳ Planned |
 
 ## 🛠️ Tech Stack

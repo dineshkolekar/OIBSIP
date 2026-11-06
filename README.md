@@ -9,7 +9,7 @@
 
 | Task | Project | Status |
 |------|---------|--------|
-| Task 1 | Online Reservation System | ⏳ Planned |
+| Task 1 | Online Reservation System | ✅ Completed |
 | Task 2 | Number Guessing Game | ✅ Completed |
 | Task 3 | ATM Interface | ✅ Completed |
 
